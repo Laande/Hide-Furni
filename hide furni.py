@@ -3,7 +3,7 @@ from g_python.gextension import Extension
 from g_python.hmessage import Direction
 
 extension_info = {
-    "title": "Hide furni",
+    "title": "Hide Furni",
     "description": "Hide a furni",
     "version": "2.0",
     "author": "Lande"
